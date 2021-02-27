@@ -1,7 +1,7 @@
 # Learn-Bash-Scripting
 Learn Bash Scripting in Just 10 Min !
 
-![Command Line](https://raw.githubusercontent.com/pwdec/Learn-Bash-Scripting/main/%231%20Command%20Line.png)
+![Command Line](https://raw.githubusercontent.com/pwdec/Learn-Bash-Scripting/main/%231%20Command%20Line.png) <br>
 ![Echo](https://raw.githubusercontent.com/pwdec/Learn-Bash-Scripting/main/%232%20Echo.png)
 ![Variables](https://raw.githubusercontent.com/pwdec/Learn-Bash-Scripting/main/%233%20Variables.png)
 ![For Loop](https://raw.githubusercontent.com/pwdec/Learn-Bash-Scripting/main/%234%20For%20Loop.png)
